@@ -324,3 +324,6 @@
 - type: web-fanqiangdang
   options:
     url: https://fanqiangdang.com/forum-48-1.html
+- type: webfuzzsub
+  options:
+    url: https://github.com/pojiezhiyuanjun/freev2
