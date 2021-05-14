@@ -34,8 +34,8 @@
     url: https://github.com/JACKUSR2089/v2ray-subscribed   
 - type: webfuzzsub
   options:
-    url:https://raw.githubusercontent.com/wishcaiji/proxypool/master/config/source.yaml
-  - type: webfuzzsub
+    url: https://raw.githubusercontent.com/wishcaiji/proxypool/master/config/source.yaml
+- type: webfuzzsub
   options:
     url: https://github.com/pojiezhiyuanjun/freev2
 - type: webfuzzsub
